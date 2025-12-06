@@ -1,5 +1,7 @@
+
 {
   "name": "material-tailwind-dashboard-react",
+  "webpage": "https://belhsan12.github.io/material-tailwind-dashboard-react/",
   "private": true,
   "version": "2.0.0",
   "type": "module",
@@ -30,3 +32,4 @@
     "vite": "3.1.0"
   }
 }
+      
